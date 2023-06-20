@@ -1,7 +1,7 @@
 0x04. AirBnB clone - Web framework
 ==================================
 
-- By Dev Nderitu
+- By Festus Maithya
 - Weight: 1
 
 Resources

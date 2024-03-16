@@ -139,7 +139,6 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 (hbnb) User.all()
 (hbnb) ["[User] (98bea5de-9cb0-4d78-8a9d-c4de03521c30) {'updated_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134362), 'name': 'Fred the Frog', 'age': 9, 'id': '98bea5de-9cb0-4d78-8a9d-c4de03521c30', 'created_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134343)}"]
 ```
-<br>
 
 
 
@@ -149,20 +148,3 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 
 
 
-
-## Author : Festus Maithya:
-
-* **Festus Maithya** [festusmaithyakcau](https://github.com/festusmaithyakcau)
-
-## Acknowledgements :pray:
-
-All work contained in this project was completed as part of the curriculum for
-ALX School. ALX School is a campus-based full-stack software
-engineering program that prepares students for careers in the tech industry
-using project-based peer learning. For more information, visit
-[this link](https://www.alxafrica.com/software-engineering/).
-
-<p align="center">
-  <img src="https://cdn.movemeback.com/media/thumbnails/images/alx-organisation-logo-20190916-00002391/f6313bbddaca8b63d28b26a7b02bc3c7.jpg"
-       alt="ALX School logo">
-</p>
